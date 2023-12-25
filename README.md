@@ -49,8 +49,8 @@ print(solution)
 ```
 
 ## Output:
-![image](https://github.com/Shashank2006offl/LU-Decomposition/assets/147140026/9c406b6a-9364-44e2-a325-cfb1da147362)
-![Uploading image.png…]()
+![image](https://github.com/Shashank2006offl/LU-Decomposition/assets/147140026/57f2cdc5-bd4f-40b9-a230-93e3da014765)
+
 
 
 
